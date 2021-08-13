@@ -153,6 +153,7 @@
           "image-bar-1": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/smiling-man-woman-pug.jpg",
               "alignment": "center",
               "link": "",
               "cta_label": ""
