@@ -1479,10 +1479,10 @@ a[href^="tel"] {
     color: var(--color-btn-primary-focus);
     border-color: var(--color-btn-primary-focus); }
 
-.btn--secondary-accent {
+/*.btn--secondary-accent {
   background-color: var(--color-body);
   color: var(--color-btn-primary);
-  border-color: var(--color-btn-primary); }
+  border-color: var(--color-btn-primary); }*/
   .btn--secondary-accent:not([disabled]):hover, .btn--secondary-accent:focus {
     background-color: var(--color-body);
     color: var(--color-btn-primary-focus);
@@ -6997,7 +6997,7 @@ hr {
 .store-availability-list__phone {
   margin-bottom: 0; }
 
-.product-form__cart-submit:hover {
+/*.product-form__cart-submit:hover {
 
 background-color: #000 !important;
 
@@ -7007,4 +7007,4 @@ background-color: #000 !important;
   background: gold;
   border: none;
   color: white;
-}
+}*/
