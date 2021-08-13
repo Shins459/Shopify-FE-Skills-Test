@@ -144,6 +144,7 @@
           "image-bar-0": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/deli-with-cured-meat-on-hooks-and-eggs-on-counter.jpg",
               "alignment": "center",
               "link": "",
               "cta_label": ""
